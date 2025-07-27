@@ -1,0 +1,2 @@
+# PowerShell
+开始学习powershell，从bat开始学习进军powershell
